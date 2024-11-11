@@ -1,0 +1,12 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<h2>Dữ liệu lấy từ viewdata</h2>
+@* @{
+    var product = ViewData["productVd"] as SS02.Models.Product;
+} *@
+<p>Mã Sản Phẩm : @product.ProductId</p>
+<p>Tên sản Phẩm :@product.ProductName</p>
+<p>Năm sản xuất :@product.YearRelease</p>
+<p>Giá :@product.Price</p>
