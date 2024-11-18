@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\An\\source\\repos\\Lab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Migrations\\20241118043157_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab07\\Migrations\\20241118043157_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\migrations\\20241118040417_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\migrations\\20241118040417_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\models\\productmanagementcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\models\\productmanagementcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|c:\\users\\an\\source\\repos\\lab07\\lab07\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8895-7490-4D6B-8335-462179032BD5}|Lab07\\Lab07.csproj|solutionrelative:lab07\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:35:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Lab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:34:30.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241118043157_v2.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Migrations\\20241118043157_v2.cs",
+              "RelativeDocumentMoniker": "Lab07\\Migrations\\20241118043157_v2.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Migrations\\20241118043157_v2.cs",
+              "RelativeToolTip": "Lab07\\Migrations\\20241118043157_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:31:57.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Lab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "Lab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T04:31:01.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab07\\appsettings.json",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\appsettings.json",
+              "RelativeToolTip": "Lab07\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T03:46:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "Lab07\\Models\\Banner.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Banner.cs",
+              "RelativeToolTip": "Lab07\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:17:05.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241118040417_v1.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Migrations\\20241118040417_v1.cs",
+              "RelativeDocumentMoniker": "Lab07\\Migrations\\20241118040417_v1.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Migrations\\20241118040417_v1.cs",
+              "RelativeToolTip": "Lab07\\Migrations\\20241118040417_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:30:36.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Admins.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeDocumentMoniker": "Lab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeToolTip": "Lab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T04:30:57.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07\\Program.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Program.cs",
+              "RelativeToolTip": "Lab07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:53:25.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab07\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Category.cs",
+              "RelativeToolTip": "Lab07\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:20:17.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductManagementContextcs.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\ProductManagementContextcs.cs",
+              "RelativeDocumentMoniker": "Lab07\\Models\\ProductManagementContextcs.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\ProductManagementContextcs.cs",
+              "RelativeToolTip": "Lab07\\Models\\ProductManagementContextcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:20:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Lab07\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Blog.cs",
+              "RelativeToolTip": "Lab07\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab07\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\Product.cs",
+              "RelativeToolTip": "Lab07\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:07.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Lab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:20:13.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab07\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab07\\Lab07\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab07\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:58:08.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
