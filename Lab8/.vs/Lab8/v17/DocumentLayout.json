@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\An\\source\\repos\\Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|c:\\users\\an\\source\\repos\\lab8\\lab8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFB3BAFA-27C5-416F-B098-941D2AF08226}|Lab8\\Lab8.csproj|solutionrelative:lab8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:56:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:26:55.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:27:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:22:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:20:08.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:03:38.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:14:20.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:06:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T01:55:40.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:06:50.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Lab8\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Lab8\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:55:06.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab8\\Program.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\Program.cs",
+              "RelativeToolTip": "Lab8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:50:13.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab8\\appsettings.json",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\Lab8\\Lab8\\appsettings.json",
+              "RelativeToolTip": "Lab8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T01:47:19.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
