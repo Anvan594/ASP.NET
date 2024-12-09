@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DevXuongMoc</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/DevXuongMoc.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="logo">
+                    <a href="#"><img src="images/logo.jpg" alt=""></a>
+                </div>
+
+                <nav>
+                    <div class="icon-nav">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <ul>
+                        <li><a href="#" title="Trang chủ">Trang chủ</a><h5 class="h5-1"></h5></li></h5>
+                        <li><a href="#" title="Giới thiệu">Giới thiệu</a> <h5 class="h5"></h5></li>
+                        <li><a href="#" title="Sản phẩm">Sản phẩm</a> <h5 class="h5"></h5></li>
+                        <li><a href="#" title="Tin tức">Tin tức</a> <h5 class="h5"></h5></li>
+                        <li><a href="#" title="Đối tác">Đối tác</a> <h5 class="h5"></h5></li>
+                        <li><a href="#" title="Liên hệ">Liên hệ</a> <h5 class="h5"></h5></li>
+                    </ul>
+                </nav>
+                <div class="icon">
+                    <div class="icon-cart"><i class="fa-solid fa-bag-shopping"></i></div>
+                    <div class="icon-like"><i class="fa-regular fa-heart"></i></div>
+                    <div class="icon-search"><i class="fa-solid fa-magnifying-glass"></i></div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - DevXuongMoc - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
