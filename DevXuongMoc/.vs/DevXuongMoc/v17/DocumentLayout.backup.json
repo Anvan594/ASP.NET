@@ -3,76 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\models\\devxuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\devxuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\source\\repos\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,236 +63,151 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T07:00:03.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwG4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T06:59:16.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:50:33.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:33:36.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DashBoardController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:21:44.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Models\\Login.cs",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:34:11.648Z",
+              "WhenOpened": "2024-12-13T06:45:05.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAmAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAqwIQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:29:44.716Z",
+              "WhenOpened": "2024-12-13T06:41:44.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T06:56:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Models\\AdminUser.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Models\\AdminUser.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\AdminUser.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:11:53.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T06:47:52.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Preloader.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T06:49:03.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_NavBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:29:39.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwB4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:33:55.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T07:58:01.126Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T06:59:38.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:08:08.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:22:58.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T07:58:05.102Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Program.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Program.cs",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Program.cs",
-              "RelativeToolTip": "DevXuongMoc\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAPAAAAAAAAAA==",
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:26:43.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T07:05:53.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DevXuongMocContext.cs",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "RelativeToolTip": "DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAA+wDcAAABRAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T07:28:11.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:34:11.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T03:25:25.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:22:55.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T03:22:37.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "DevXuongMoc\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "DevXuongMoc\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-09T03:20:27.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\appsettings.json",
-              "RelativeDocumentMoniker": "DevXuongMoc\\appsettings.json",
-              "ToolTip": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\appsettings.json",
-              "RelativeToolTip": "DevXuongMoc\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T02:57:34.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T04:10:46.736Z"
             }
           ]
         }

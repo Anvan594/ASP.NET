@@ -313,6 +313,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\001.jpg",
+      "PackagePath": "staticwebassets\\images\\catagory\\001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\002.png",
+      "PackagePath": "staticwebassets\\images\\catagory\\002.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\003.png",
+      "PackagePath": "staticwebassets\\images\\catagory\\003.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\004.jpg",
+      "PackagePath": "staticwebassets\\images\\catagory\\004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\005.jpg",
+      "PackagePath": "staticwebassets\\images\\catagory\\005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\006.jpg",
+      "PackagePath": "staticwebassets\\images\\catagory\\006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\007.jpg",
+      "PackagePath": "staticwebassets\\images\\catagory\\007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\010.png",
+      "PackagePath": "staticwebassets\\images\\catagory\\010.png"
+    },
+    {
       "Id": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\logo\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo\\logo.jpg"
     },

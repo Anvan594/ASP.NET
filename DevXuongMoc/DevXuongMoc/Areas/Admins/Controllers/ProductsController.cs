@@ -6,10 +6,12 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using DevXuongMoc.Models;
+using X.PagedList;
 
 namespace DevXuongMoc.Areas.Admins.Controllers
 {
     [Area("Admins")]
+    [Route("admins/products")]
     public class ProductsController : Controller
     {
         private readonly DevXuongMocContext _context;
@@ -24,7 +26,23 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         {
             return View(await _context.Products.ToListAsync());
         }
+        // GET: Product
+        [HttpGet("Products/Index")]
+        public async Task<IActionResult> Index(string searchQuery)
+        {
+            IQueryable<Product> products = _context.Products;
 
+            if (!string.IsNullOrEmpty(searchQuery))
+            {
+                products = products.Where(p => p.Title.Contains(searchQuery)); // Lọc trong SQL Server
+                ViewData["SearchQuery"] = searchQuery; // Truyền dữ liệu sang View
+            }
+
+            return View(await products.ToListAsync()); // Chỉ tải dữ liệu đã được lọc
+        }
+
+
+        [HttpGet("Products/Details/{id}")]
         // GET: Admins/Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -44,6 +62,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         }
 
         // GET: Admins/Products/Create
+        [HttpGet("Products/Create")]
         public IActionResult Create()
         {
             return View();
@@ -66,6 +85,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         }
 
         // GET: Admins/Products/Edit/5
+        [HttpGet("Products/Edit/{id}")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -116,7 +136,9 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             return View(product);
         }
 
+        // GET: Products/Delete/5
         // GET: Admins/Products/Delete/5
+        [HttpGet("Delete/{id}")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -131,11 +153,12 @@ namespace DevXuongMoc.Areas.Admins.Controllers
                 return NotFound();
             }
 
-            return View(product);
+            return View(product);  // Return a view with the product data for confirmation
         }
 
         // POST: Admins/Products/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpPost("Delete/{id}")]
+        [ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -143,11 +166,14 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             if (product != null)
             {
                 _context.Products.Remove(product);
+                await _context.SaveChangesAsync();
             }
 
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Index));  // After deletion, redirect to the products list (Index action)
         }
+
+
+
 
         private bool ProductExists(int id)
         {
