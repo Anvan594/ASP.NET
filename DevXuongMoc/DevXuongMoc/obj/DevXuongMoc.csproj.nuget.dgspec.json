@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj": {}
+    "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj": {
+    "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj",
+        "projectUniqueName": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj",
         "projectName": "DevXuongMoc",
-        "projectPath": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj",
+        "projectPath": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\DevXuongMoc.csproj",
         "packagesPath": "C:\\Users\\An\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\An\\source\\repos\\DevXuongMoc\\DevXuongMoc\\obj\\",
+        "outputPath": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\An\\AppData\\Roaming\\NuGet\\NuGet.Config",

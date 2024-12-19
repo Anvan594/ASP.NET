@@ -1,0 +1,82 @@
+﻿@model IEnumerable<DevXuongMoc.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Giỏ Hàng</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Idorders)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrdersDate)
+            </th>
+          
+     
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Isactive)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idorders)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrdersDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+                <td>
+                    @if (item.Isactive == true)
+                    {
+                        <span style="color: green;">Đang hoạt động</span>
+                    }
+                    else
+                    {
+                        <span style="color: red;">Đang khóa</span>
+                    }
+                </td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                        <i class="fas fa-edit"></i>Sửa
+                    </a>
+                    <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id">
+                        <i class="fas fa-eye"></i>Xem
+                    </a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                        <i class="fas fa-trash-alt"></i>Xóa
+                    </a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>
