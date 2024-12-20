@@ -21,6 +21,7 @@
     <Folder Include="Areas\Admins\Data\" />
     <Folder Include="Views\Shared\css\" />
     <Folder Include="wwwroot\images\logo\" />
+    <Folder Include="wwwroot\images\news\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -35,10 +36,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
-    <PackageReference Include="PagedList" Version="1.17.0" />
-    <PackageReference Include="PagedList.Mvc" Version="4.0.0" />
-    <PackageReference Include="X.PagedList" Version="8.0.5" />
-    <PackageReference Include="X.PagedList.Mvc.Core" Version="8.0.5" />
+    <PackageReference Include="X.PagedList" Version="7.5.0" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="7.5.0" />
   </ItemGroup>
 
 </Project>

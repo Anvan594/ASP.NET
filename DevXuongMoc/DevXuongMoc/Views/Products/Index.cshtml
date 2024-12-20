@@ -1,0 +1,254 @@
+﻿@model DevXuongMoc.Models.HomePageViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        @for (int i = 0; i < 2; i++)
+        {
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="@i"
+                    class="@(i == 0 ? "active" : "")" aria-current="true" aria-label="Slide @(i + 1)"></button>
+        }
+    </div>
+    <div class="carousel-inner">
+        @foreach (var banner in Model.Banners.Select((value, index) => new { value, index }))
+        {
+            <div class="carousel-item @(banner.index == 0 ? "active" : "")">
+                <img src="@banner.value.Image" class="d-block w-100" alt="@banner.value.Title">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>@banner.value.Title</h5>
+                    <p>@banner.value.SubTitle</p>
+                </div>
+            </div>
+        }
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<div class="" style="margin-top:20px">
+    <!-- Banner Section -->
+    <!-- Danh mục Phòng khách -->
+    <div class="category-section">
+        <div class="row">
+            @foreach (var item in Model.Products)
+            {
+                <div class="col-md-3">
+                    <div class="card product-card">
+                        <div class="product-image-wrapper">
+                            <img src="@item.Image" class="card-img-top" alt="@item.Title" />
+                            <div class="product-hover-overlay">
+                                <div class="icon-container">
+                                    <a href="#" class="icon icon-cart" data-product-id="@item.Id"></a>
+                                    <a href="#" class="icon icon-heart"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text">
+                                @if (item.PriceOld.HasValue)
+                                {
+                                    <span class="old-price">@item.PriceOld.Value.ToString("N0") VND</span>
+                                }
+                                <span class="new-price">@item.PriceNew.Value.ToString("N0") VND</span>
+                            </p>
+                        </div>
+                      @*   <div class="add-to-cart">
+                            <a href="javascript:void(0);" class="btn btn-success">Thêm vào giỏ</a>
+                        </div> *@
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('.icon-cart').click(function(e) {
+                e.preventDefault();
+                var productId = $(this).data('product-id');
+                $.post('/Cart/AddToCart', { productId: productId }, function(response) {
+                    alert('Sản phẩm đã được thêm vào giỏ hàng!');
+                });
+            });
+        });
+    </script>
+}
+<style>
+    .carousel-item img {
+        height: 500px; /* Điều chỉnh chiều cao banner */
+        object-fit: cover;
+    }
+
+    .carousel-caption h5 {
+        font-size: 30px;
+        font-weight: bold;
+        color: #ffffff;
+        text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.7);
+    }
+
+    .carousel-caption p {
+        font-size: 18px;
+        color: #ffffff;
+        text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.7);
+    }
+
+    .banner-section {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .banner-item {
+        margin-bottom: 20px;
+    }
+
+        .banner-item img {
+            max-width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .banner-item h3 {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .banner-item p {
+            font-size: 14px;
+            color: #555;
+        }
+
+    .category-section {
+        margin-bottom: 40px;
+    }
+
+    .product-card {
+        margin-bottom: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        overflow: hidden;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        position: relative; /* Make the card a positioned element */
+    }
+
+    .product-image-wrapper {
+        position: relative;
+    }
+
+    .product-card img {
+        max-height: 200px;
+        object-fit: cover;
+        width: 100%;
+    }
+
+    .product-hover-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(255, 255, 255, 0.8);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+
+    .product-image-wrapper:hover .product-hover-overlay {
+        opacity: 1;
+    }
+
+    .icon-container {
+        display: flex;
+        gap: 10px;
+    }
+
+    .icon {
+        display: inline-block;
+        background: #fff;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        line-height: 40px;
+        text-align: center;
+        color: #333;
+        font-size: 20px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        transition: background 0.3s;
+    }
+
+        .icon:hover {
+            background: #f0f0f0;
+        }
+
+    .icon-cart::before {
+        content: '\1F6D2'; 
+    }
+
+    .icon-heart::before {
+        content: '\2764'; /* Unicode character for heart icon */
+    }
+
+    .product-card .card-body {
+        padding: 15px;
+        text-align: center;
+    }
+
+    .product-card .card-title {
+        font-size: 16px;
+        font-weight: bold;
+        margin: 10px 0;
+    }
+
+    .old-price {
+        text-decoration: line-through;
+        color: #aaa;
+        margin-right: 5px;
+        font-size: 14px;
+    }
+
+    .new-price {
+        font-size: 18px;
+        color: #e74c3c;
+        font-weight: bold;
+    }
+
+    .add-to-cart {
+        display: none;
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+
+    .product-card:hover .add-to-cart {
+        display: block;
+    }
+
+    .add-to-cart .btn {
+        background-color: #27ae60; /* Green button */
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 14px;
+        border-radius: 5px;
+        text-transform: uppercase;
+    }
+
+        .add-to-cart .btn:hover {
+            background-color: #2ecc71; /* Slightly brighter green on hover */
+        }
+</style>

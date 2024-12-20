@@ -1,0 +1,106 @@
+﻿@model DevXuongMoc.Models.ShoppingCart
+
+@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+
+<h2>Giỏ hàng</h2>
+
+@if (Model.Items.Count == 0)
+{
+    <p>Giỏ hàng của bạn đang trống.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Ảnh</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Tổng</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr data-id="@item.ProductId">
+                    <td>@item.Title</td>
+                    <td><img src="@item.Image" alt="Alternate Text" width="100px" /></td>
+                    <td>
+                        <input type="number" value="@item.Quantity" min="1" class="form-control quantity-input" />
+                    </td>
+                    <td>@item.Price.ToString("N0") VND</td>
+                    <td>@string.Format("{0:N0} VND", item.Price * item.Quantity)</td>
+                    <td>
+                        <button class="btn btn-danger delete-button">Xóa</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="4">Tổng cộng</th>
+                <th id="total-amount">@Model.Total.ToString("N0") VND</th>
+            </tr>
+        </tfoot>
+    </table>
+}
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Cập nhật số lượng sản phẩm khi thay đổi
+            $('.quantity-input').on('change', function () {
+                var row = $(this).closest('tr');
+                var id = row.data('id');
+                var quantity = $(this).val();
+
+                // Kiểm tra xem quantity có hợp lệ không
+                if (quantity < 1 || isNaN(quantity)) {
+                    alert('Số lượng không hợp lệ!');
+                    return;  // Dừng lại nếu số lượng không hợp lệ
+                }
+
+                $.ajax({
+                    url: '@Url.Action("UpdateQuantity", "Cart")',
+                    type: 'POST',
+                    data: { id: id, quantity: quantity },
+                    success: function (response) {
+                        // Cập nhật tổng tiền cho sản phẩm và tổng giỏ hàng
+                        row.find('td:nth-child(5)').text(response.itemTotal);
+                        $('#total-amount').text(response.total);
+                    },
+                    error: function () {
+                        alert('Cập nhật số lượng thất bại. Vui lòng thử lại.');
+                    }
+                });
+            });
+
+            // Xóa sản phẩm khỏi giỏ
+            $('.delete-button').on('click', function () {
+                var row = $(this).closest('tr');
+                var id = row.data('id');
+
+                if (confirm('Bạn có chắc muốn xóa sản phẩm này khỏi giỏ hàng?')) {
+                    $.ajax({
+                        url: '@Url.Action("DeleteItem", "Cart")',
+                        type: 'POST',
+                        data: { id: id },
+                        success: function (response) {
+                            // Xóa dòng sản phẩm và cập nhật tổng tiền
+                            row.remove();
+                            $('#total-amount').text(response.total);
+                        },
+                        error: function () {
+                            alert('Xóa sản phẩm thất bại. Vui lòng thử lại.');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}

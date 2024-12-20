@@ -8,10 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using DevXuongMoc.Models;
 using X.PagedList;
 
-namespace DevXuongMoc.Areas.Admins.Controllers
+namespace DevXuongMoc.Areas.Admin.Controllers
 {
     [Area("Admins")]
-    [Route("admins/products")]
     public class ProductsController : Controller
     {
         private readonly DevXuongMocContext _context;
@@ -21,29 +20,22 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             _context = context;
         }
 
-        // GET: Admins/Products
-        public async Task<IActionResult> Index()
+        // GET: Admin/Products
+        public async Task<IActionResult> Index(string name, int page = 1)
         {
-            return View(await _context.Products.ToListAsync());
-        }
-        // GET: Product
-        [HttpGet("Products/Index")]
-        public async Task<IActionResult> Index(string searchQuery)
-        {
-            IQueryable<Product> products = _context.Products;
-
-            if (!string.IsNullOrEmpty(searchQuery))
+            int limit = 4;
+            //var category = await _context.Categories.ToListAsync();
+            var product = await _context.Products.OrderBy(c => c.Id).ToPagedListAsync(page, limit);
+            // nếu có tham số name trên url
+            if (!String.IsNullOrEmpty(name))
             {
-                products = products.Where(p => p.Title.Contains(searchQuery)); // Lọc trong SQL Server
-                ViewData["SearchQuery"] = searchQuery; // Truyền dữ liệu sang View
+                product = await _context.Products.Where(c => c.Title.Contains(name)).OrderBy(c => c.Id).ToPagedListAsync(page, limit);
             }
-
-            return View(await products.ToListAsync()); // Chỉ tải dữ liệu đã được lọc
+            ViewBag.keyword = name;
+            return View(product);
         }
 
-
-        [HttpGet("Products/Details/{id}")]
-        // GET: Admins/Products/Details/5
+        // GET: Admin/Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -57,18 +49,26 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             {
                 return NotFound();
             }
-
+            // Return partial view for AJAX
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return PartialView("_Details", product);
+            }
             return View(product);
         }
 
-        // GET: Admins/Products/Create
-        [HttpGet("Products/Create")]
+        // GET: Admin/Products/Create
         public IActionResult Create()
         {
+            // Return partial view for AJAX
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return PartialView("_Create");
+            }
             return View();
         }
 
-        // POST: Admins/Products/Create
+        // POST: Admin/Products/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -77,15 +77,40 @@ namespace DevXuongMoc.Areas.Admins.Controllers
         {
             if (ModelState.IsValid)
             {
+                var files = HttpContext.Request.Form.Files;
+                if (files.Any() && files[0].Length > 0)
+                {
+                    var file = files[0];
+                    var fileName = file.FileName;
+                    var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\products", fileName);
+                    using (var stream = new FileStream(path, FileMode.Create))
+                    {
+                        file.CopyTo(stream);
+                        product.Image = "/images/products/" + fileName;
+                    }
+                }
                 _context.Add(product);
                 await _context.SaveChangesAsync();
+
+                // Return success response for AJAX
+                if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+                {
+                    return Json(new { success = true, redirectUrl = Url.Action("Index") });
+                }
+
                 return RedirectToAction(nameof(Index));
             }
+
+            // Return partial view for AJAX in case of validation errors
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return PartialView("_Create", product);
+            }
             return View(product);
+
         }
 
-        // GET: Admins/Products/Edit/5
-        [HttpGet("Products/Edit/{id}")]
+        // GET: Admin/Products/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -98,10 +123,15 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             {
                 return NotFound();
             }
+            // Return partial view for AJAX
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return PartialView("_Edit", product);
+            }
             return View(product);
         }
 
-        // POST: Admins/Products/Edit/5
+        // POST: Admin/Products/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -117,6 +147,19 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             {
                 try
                 {
+                    var files = HttpContext.Request.Form.Files;
+                    if (files.Count() > 0 && files[0].Length > 0)
+                    {
+                        var file = files[0];
+                        var FileName = file.FileName;
+                        // upload ảnh vào thư mục wwwroot\\images\\Category 
+                        var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\products", FileName);
+                        using (var stream = new FileStream(path, FileMode.Create))
+                        {
+                            file.CopyTo(stream);
+                            product.Image = "/images/products/" + FileName; //gán tên ảnh cho thuộc tính Image
+                        }
+                    }
                     _context.Update(product);
                     await _context.SaveChangesAsync();
                 }
@@ -136,9 +179,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             return View(product);
         }
 
-        // GET: Products/Delete/5
-        // GET: Admins/Products/Delete/5
-        [HttpGet("Delete/{id}")]
+        //GET: Admin/Products/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -152,13 +193,19 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             {
                 return NotFound();
             }
-
-            return View(product);  // Return a view with the product data for confirmation
+            // Return partial view for AJAX
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+            {
+                return PartialView("_Delete", product);
+            }
+            return View(product);
         }
 
-        // POST: Admins/Products/Delete/5
-        [HttpPost("Delete/{id}")]
-        [ActionName("Delete")]
+
+
+
+        // POST: AdminQL/AdminUsers/Delete/5
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -166,14 +213,11 @@ namespace DevXuongMoc.Areas.Admins.Controllers
             if (product != null)
             {
                 _context.Products.Remove(product);
-                await _context.SaveChangesAsync();
             }
 
-            return RedirectToAction(nameof(Index));  // After deletion, redirect to the products list (Index action)
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
-
-
-
 
         private bool ProductExists(int id)
         {

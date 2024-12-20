@@ -313,6 +313,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\Banner\\Sanpham\\2.png",
+      "PackagePath": "staticwebassets\\images\\Banner\\Sanpham\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\Banner\\Sanpham\\trai-nghiem1.jpg",
+      "PackagePath": "staticwebassets\\images\\Banner\\Sanpham\\trai-nghiem1.jpg"
+    },
+    {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\001.jpg",
       "PackagePath": "staticwebassets\\images\\catagory\\001.jpg"
     },
@@ -347,6 +355,10 @@
     {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\logo\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\news\\01-1.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\01-1.jpg"
     },
     {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\cau-thang\\019.jpg",

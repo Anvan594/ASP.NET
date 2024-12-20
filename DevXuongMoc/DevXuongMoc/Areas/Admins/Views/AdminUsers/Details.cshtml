@@ -3,20 +3,41 @@
 <table class="table table-bordered table-striped table-hover">
     <thead class="thead-dark">
         <tr>
-            <th>Tài khoản</th>
-            <th>Tên</th>
-            <th>Điện thoại</th>
-            <th>Email</th>
-            <th>Trạng thái</th>
-            <th>Ngày tạo</th>
+            <th>Thông tin</th>
+            <th>Chi tiết</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>Tài khoản</td>
             <td>@Model.Account</td>
+        </tr>
+        <tr>
+            <td>Mật Khẩu</td>
+            <td>@Model.Password</td>
+        </tr>
+        <tr>
+            <td>Tên</td>
             <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <td>Điện thoại</td>
             <td>@Model.Phone</td>
+        </tr>
+        <tr>
+            <td>Email</td>
             <td>@Model.Email</td>
+        </tr>
+        <tr>
+            <td>Mã nhân sự</td>
+            <td>@Model.MaNhanSu</td>
+        </tr>
+        <tr>
+            <td>Ảnh đại diện</td>
+            <td>@Model.Avatar</td>
+        </tr>
+        <tr>
+            <td>Trạng thái</td>
             <td>
                 @if (Model.TrangThai == 1)
                 {
@@ -27,6 +48,9 @@
                     <span style="color: red;">Đang khóa</span>
                 }
             </td>
+        </tr>
+        <tr>
+            <td>Ngày tạo</td>
             <td>@Model.NgayTao</td>
         </tr>
     </tbody>

@@ -1,201 +1,155 @@
 ﻿@model DevXuongMoc.Models.Product
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Chỉnh Sửa";
+
     Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1 class="text-center">Edit Product</h1>
+<h1 class="text-center my-2">Chỉnh sửa sản phẩm</h1>
 
-<h4>Product</h4>
+
 <hr />
+ <form asp-action="Edit">
 <div class="row">
-    <div class="col-md-8 offset-md-2">
-        <form asp-action="Edit" method="post">
+    <div class="col-md-6">
+        
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
 
-            <!-- Cid -->
             <div class="form-group">
-                <label asp-for="Cid" class="control-label"></label>
+                <label asp-for="Cid" class="control-label">Danh Mục</label>
                 <input asp-for="Cid" class="form-control" />
                 <span asp-validation-for="Cid" class="text-danger"></span>
             </div>
-
-            <!-- Code -->
             <div class="form-group">
-                <label asp-for="Code" class="control-label"></label>
+                <label asp-for="Code" class="control-label">Mã Sản Phẩm</label>
                 <input asp-for="Code" class="form-control" />
                 <span asp-validation-for="Code" class="text-danger"></span>
             </div>
-
-            <!-- Title -->
             <div class="form-group">
-                <label asp-for="Title" class="control-label"></label>
+                <label asp-for="Title" class="control-label">Tiêu Đề</label>
                 <input asp-for="Title" class="form-control" />
                 <span asp-validation-for="Title" class="text-danger"></span>
             </div>
-
-            <!-- Description -->
             <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                <label asp-for="Description" class="control-label">Mô Tả</label>
+                <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
-
-            <!-- Content -->
             <div class="form-group">
-                <label asp-for="Content" class="control-label"></label>
-                <textarea asp-for="Content" class="form-control" rows="3"></textarea>
+                <label asp-for="Content" class="control-label">Nội Dung</label>
+                <input asp-for="Content" class="form-control" />
                 <span asp-validation-for="Content" class="text-danger"></span>
             </div>
-
-            <!-- Image -->
             <div class="form-group">
-                <label asp-for="Image" class="control-label"></label>
-                <input asp-for="Image" class="form-control" />
+                <label asp-for="Image" class="control-label">Hình Ảnh</label>
+                <input asp-for="Image" type="file" class="form-control" />
                 <span asp-validation-for="Image" class="text-danger"></span>
             </div>
-
-            <!-- MetaTitle -->
             <div class="form-group">
-                <label asp-for="MetaTitle" class="control-label"></label>
+                <label asp-for="MetaTitle" class="control-label">Tiêu Đề Meta</label>
                 <input asp-for="MetaTitle" class="form-control" />
                 <span asp-validation-for="MetaTitle" class="text-danger"></span>
             </div>
+       
+    </div>
 
-            <!-- MetaKeyword -->
+    <div class="col-md-6">
+       
             <div class="form-group">
-                <label asp-for="MetaKeyword" class="control-label"></label>
+                <label asp-for="MetaKeyword" class="control-label">Từ Khoá Meta</label>
                 <input asp-for="MetaKeyword" class="form-control" />
                 <span asp-validation-for="MetaKeyword" class="text-danger"></span>
             </div>
-
-            <!-- MetaDescription -->
             <div class="form-group">
-                <label asp-for="MetaDescription" class="control-label"></label>
+                <label asp-for="MetaDescription" class="control-label">Mô Tả Meta</label>
                 <input asp-for="MetaDescription" class="form-control" />
                 <span asp-validation-for="MetaDescription" class="text-danger"></span>
             </div>
-
-            <!-- Slug -->
             <div class="form-group">
-                <label asp-for="Slug" class="control-label"></label>
+                <label asp-for="Slug" class="control-label">Slug (Đường Dẫn)</label>
                 <input asp-for="Slug" class="form-control" />
                 <span asp-validation-for="Slug" class="text-danger"></span>
             </div>
-
-            <!-- PriceOld -->
             <div class="form-group">
-                <label asp-for="PriceOld" class="control-label"></label>
+                <label asp-for="PriceOld" class="control-label">Giá Cũ</label>
                 <input asp-for="PriceOld" class="form-control" />
                 <span asp-validation-for="PriceOld" class="text-danger"></span>
             </div>
-
-            <!-- PriceNew -->
             <div class="form-group">
-                <label asp-for="PriceNew" class="control-label"></label>
+                <label asp-for="PriceNew" class="control-label">Giá Mới</label>
                 <input asp-for="PriceNew" class="form-control" />
                 <span asp-validation-for="PriceNew" class="text-danger"></span>
             </div>
-
-            <!-- Size -->
             <div class="form-group">
-                <label asp-for="Size" class="control-label"></label>
+                <label asp-for="Size" class="control-label">Kích Cỡ</label>
                 <input asp-for="Size" class="form-control" />
                 <span asp-validation-for="Size" class="text-danger"></span>
             </div>
-
-            <!-- Views -->
             <div class="form-group">
-                <label asp-for="Views" class="control-label"></label>
+                <label asp-for="Views" class="control-label">Lượt Xem</label>
                 <input asp-for="Views" class="form-control" />
                 <span asp-validation-for="Views" class="text-danger"></span>
             </div>
-
-            <!-- Likes -->
             <div class="form-group">
-                <label asp-for="Likes" class="control-label"></label>
+                <label asp-for="Likes" class="control-label">Lượt Thích</label>
                 <input asp-for="Likes" class="form-control" />
                 <span asp-validation-for="Likes" class="text-danger"></span>
             </div>
-
-            <!-- Star -->
             <div class="form-group">
-                <label asp-for="Star" class="control-label"></label>
+                <label asp-for="Star" class="control-label">Đánh Giá (Sao)</label>
                 <input asp-for="Star" class="form-control" />
                 <span asp-validation-for="Star" class="text-danger"></span>
             </div>
-
-            <!-- Home -->
             <div class="form-group">
-                <label asp-for="Home" class="control-label"></label>
+                <label asp-for="Home" class="control-label">Hiển Thị Trang Chủ</label>
                 <input asp-for="Home" class="form-control" />
                 <span asp-validation-for="Home" class="text-danger"></span>
             </div>
-
-            <!-- Hot -->
             <div class="form-group">
-                <label asp-for="Hot" class="control-label"></label>
+                <label asp-for="Hot" class="control-label">Sản Phẩm Hot</label>
                 <input asp-for="Hot" class="form-control" />
                 <span asp-validation-for="Hot" class="text-danger"></span>
             </div>
-
-            <!-- CreatedDate -->
             <div class="form-group">
-                <label asp-for="CreatedDate" class="control-label"></label>
-                <input asp-for="CreatedDate" type="datetime-local" class="form-control" />
+                <label asp-for="CreatedDate" class="control-label">Ngày Tạo</label>
+                <input asp-for="CreatedDate" class="form-control" />
                 <span asp-validation-for="CreatedDate" class="text-danger"></span>
             </div>
-
-            <!-- UpdatedDate -->
             <div class="form-group">
-                <label asp-for="UpdatedDate" class="control-label"></label>
-                <input asp-for="UpdatedDate" type="datetime-local" class="form-control" />
+                <label asp-for="UpdatedDate" class="control-label">Ngày Cập Nhật</label>
+                <input asp-for="UpdatedDate" class="form-control" />
                 <span asp-validation-for="UpdatedDate" class="text-danger"></span>
             </div>
-
-            <!-- AdminCreated -->
             <div class="form-group">
-                <label asp-for="AdminCreated" class="control-label"></label>
+                <label asp-for="AdminCreated" class="control-label">Admin Tạo</label>
                 <input asp-for="AdminCreated" class="form-control" />
                 <span asp-validation-for="AdminCreated" class="text-danger"></span>
             </div>
-
-            <!-- AdminUpdated -->
             <div class="form-group">
-                <label asp-for="AdminUpdated" class="control-label"></label>
+                <label asp-for="AdminUpdated" class="control-label">Admin Cập Nhật</label>
                 <input asp-for="AdminUpdated" class="form-control" />
                 <span asp-validation-for="AdminUpdated" class="text-danger"></span>
             </div>
-
-            <!-- Status -->
             <div class="form-group">
-                <label asp-for="Status" class="control-label"></label>
+                <label asp-for="Status" class="control-label">Trạng Thái</label>
                 <input asp-for="Status" class="form-control" />
                 <span asp-validation-for="Status" class="text-danger"></span>
             </div>
-
-            <!-- Isdelete -->
             <div class="form-group">
-                <label asp-for="Isdelete" class="control-label"></label>
+                <label asp-for="Isdelete" class="control-label">Đã Xóa</label>
                 <input asp-for="Isdelete" class="form-control" />
                 <span asp-validation-for="Isdelete" class="text-danger"></span>
             </div>
-
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
+           
+      
     </div>
+        <div class="form-group text-center">
+            <input type="submit" value="Lưu" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+        </div>
+   </form>
 </div>
 
-<div class="text-center mt-4">
-    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
-</div>
 
-@section Scripts {
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
-}

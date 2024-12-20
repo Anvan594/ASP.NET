@@ -335,8 +335,6 @@ C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\Nu
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\NuGet.ProjectModel.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\NuGet.Protocol.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\NuGet.Versioning.dll
-C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\PagedList.dll
-C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\PagedList.Mvc.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -354,7 +352,6 @@ C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\Sy
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\X.PagedList.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
-C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\X.PagedList.Web.Common.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\An\Documents\GitHub\ASP.NET\DevXuongMoc\DevXuongMoc\bin\Debug\net8.0\az\Humanizer.resources.dll

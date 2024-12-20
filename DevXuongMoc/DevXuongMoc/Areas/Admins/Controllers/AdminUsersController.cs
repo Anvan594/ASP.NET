@@ -101,6 +101,14 @@ namespace DevXuongMoc.Areas.Admins.Controllers
 
                 // Cập nhật dữ liệu
                 user.Account = model.Account;
+                user.Avatar = model.Avatar;
+                user.NgayTao = model.NgayTao;
+                user.MaNhanSu = model.MaNhanSu;
+                user.Password = model.Password;
+                user.NguoiTao = model.NguoiTao;
+                user.IdPhongBan = model.IdPhongBan;
+                user.IsDelete = model.IsDelete;
+                user.SessionToken = model.SessionToken;
                 user.Name = model.Name;
                 user.Phone = model.Phone;
                 user.Email = model.Email;

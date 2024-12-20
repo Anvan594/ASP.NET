@@ -11,39 +11,18 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/menu.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
 
 </head>
 <body>
     <header>
-        <div class="container">
-            <div class="row">
-                <div class="logo">
-                    <a href="#"><img src="images/logo.jpg" alt=""></a>
-                </div>
-
-                <nav>
-                    <div class="icon-nav">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
-
-                    <ul>
-                        <li><a href="#" title="Trang chủ">Trang chủ</a><h5 class="h5-1"></h5></li></h5>
-                        <li><a href="#" title="Giới thiệu">Giới thiệu</a> <h5 class="h5"></h5></li>
-                        <li><a href="#" title="Sản phẩm">Sản phẩm</a> <h5 class="h5"></h5></li>
-                        <li><a href="#" title="Tin tức">Tin tức</a> <h5 class="h5"></h5></li>
-                        <li><a href="#" title="Đối tác">Đối tác</a> <h5 class="h5"></h5></li>
-                        <li><a href="#" title="Liên hệ">Liên hệ</a> <h5 class="h5"></h5></li>
-                    </ul>
-                </nav>
-                <div class="icon">
-                    <div class="icon-cart"><i class="fa-solid fa-bag-shopping"></i></div>
-                    <div class="icon-like"><i class="fa-regular fa-heart"></i></div>
-                    <div class="icon-search"><i class="fa-solid fa-magnifying-glass"></i></div>
-                </div>
-            </div>
-        </div>
+        <nav>
+            @Html.Partial("_NavBar")
+            <main>
+                @RenderBody()
+            </main>
+        </nav>
     </header>
     <div class="container">
         <main role="main" class="pb-3">

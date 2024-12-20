@@ -45,7 +45,7 @@ namespace Lesson09.Lap
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseSession();
             app.UseAuthorization();
             // Sử dụng session đã khai báo ở trên
             app.UseSession();

@@ -1,0 +1,151 @@
+﻿<nav class="navbar">
+    <div class="container">
+        <!-- Logo -->
+        <div class="logo">
+            <a href="#"><img src="images/logo.jpg" alt="" width="100px"></a>
+        </div>
+        <!-- Menu Links -->
+        <ul class="navbar-menu">
+            <li><a href="/Home" class="active">TRANG CHỦ</a></li>
+            <li><a href="#">GIỚI THIỆU</a></li>
+            <li><a href="/Products">SẢN PHẨM</a></li>
+            <li><a href="#">TIN TỨC</a></li>
+            <li><a href="#">ĐỐI TÁC</a></li>
+            <li><a href="#">LIÊN HỆ</a></li>
+        </ul>
+
+        <!-- Icons -->
+        <div class="navbar-icons">
+            <a href="/cart" class="icon">
+                <i class="fa fa-shopping-bag"></i>
+            </a>
+            <a href="#" class="icon">
+                <i class="fa fa-heart">
+                    <span class="notification">1</span>
+                </i>
+            </a>
+            <a href="#" class="icon">
+                <i class="fa fa-search"></i>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: white;
+        border-bottom: 1px solid #eaeaea;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    /* Logo */
+    .navbar-logo img {
+        height: 50px;
+    }
+
+    /* Menu Links */
+    .navbar-menu {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        .navbar-menu li {
+            margin: 0 15px;
+        }
+
+        .navbar-menu a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+            text-transform: uppercase;
+            position: relative;
+            padding: 5px;
+        }
+
+            /* Thanh vàng dưới liên kết */
+            .navbar-menu a::after {
+                content: '';
+                display: block;
+                width: 0;
+                height: 2px;
+                background-color: gold;
+                margin: auto;
+                position: absolute;
+                bottom: 0;
+                left: 50%;
+                transform: translateX(-50%);
+                transition: width 0.3s ease, transform 0.3s ease;
+            }
+
+            /* Hiệu ứng khi hover */
+            .navbar-menu a:hover::after {
+                width: 50%; /* Thanh vàng mở rộng khi hover */
+                transform: translateX(-50%) scaleX(1); /* Giữ vị trí và mở rộng */
+            }
+
+            /* Khi có class 'active' */
+            .navbar-menu a.active::after {
+                width: 50%; /* Thanh vàng luôn hiển thị dưới liên kết đã active */
+                transform: translateX(-50%) scaleX(1); /* Giữ vị trí của thanh vàng */
+            }
+
+    /* Icons */
+    .navbar-icons {
+        display: flex;
+        align-items: center;
+    }
+
+        .navbar-icons .icon {
+            margin-left: 15px;
+            position: relative;
+            font-size: 18px;
+            color: black;
+            text-decoration: none;
+        }
+
+            .navbar-icons .icon .notification {
+                position: absolute;
+                top: -5px;
+                right: -10px;
+                background-color: red;
+                color: white;
+                font-size: 12px;
+                border-radius: 50%;
+                width: 18px;
+                height: 18px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+</style>
+
+<script>
+    // JavaScript để xử lý sự kiện nhấp chuột vào các liên kết trong menu
+    document.querySelectorAll('.navbar-menu a').forEach(link => {
+        link.addEventListener('click', function () {
+            // Xóa lớp 'active' khỏi tất cả các liên kết
+            document.querySelectorAll('.navbar-menu a').forEach(item => item.classList.remove('active'));
+
+            // Thêm lớp 'active' vào liên kết đã được nhấp
+            this.classList.add('active');
+        });
+    });
+</script>
