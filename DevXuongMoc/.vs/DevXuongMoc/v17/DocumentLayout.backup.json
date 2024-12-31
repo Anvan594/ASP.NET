@@ -3,76 +3,115 @@
   "WorkspaceRootPath": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\An\\Desktop\\DEV_ASP.NET-main\\DEV_ASP.NET-main\\ASP.NETcore7.0\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\ordersdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\ordersdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\login\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\login\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -83,80 +122,8 @@
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\news\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\news\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -167,16 +134,36 @@
       "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\devxuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\devxuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\an\\documents\\github\\asp.net\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E9DE948D-CC8A-4839-96CA-45FA1CCF239B}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -186,579 +173,512 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\ShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ShoppingCartItem.cs",
-              "RelativeToolTip": "DevXuongMoc\\Models\\ShoppingCartItem.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:56:20.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:21:02.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T08:19:25.999Z",
+              "WhenOpened": "2024-12-21T02:31:25.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Login\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\ResetPassword.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Login\\ResetPassword.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T17:21:44.257Z",
+              "WhenOpened": "2024-12-21T04:44:37.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResetPasswordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ResetPasswordViewModel.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\ResetPasswordViewModel.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ResetPasswordViewModel.cs",
-              "RelativeToolTip": "DevXuongMoc\\Models\\ResetPasswordViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Order.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:26:56.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Login\\ForgotPassword.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\ForgotPassword.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Login\\ForgotPassword.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T17:20:10.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\LoginUser.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\LoginUser.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\LoginUser.cs",
-              "RelativeToolTip": "DevXuongMoc\\Models\\LoginUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:57:50.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T16:57:21.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\Register.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Login\\Register.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\Register.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Login\\Register.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T16:37:55.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs*",
-              "RelativeToolTip": "DevXuongMoc\\Controllers\\CartController.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:18:37.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\appsettings.json",
-              "RelativeDocumentMoniker": "DevXuongMoc\\appsettings.json",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\appsettings.json",
-              "RelativeToolTip": "DevXuongMoc\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T17:55:46.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Customer.cs",
-              "RelativeToolTip": "DevXuongMoc\\Models\\Customer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:32:57.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:17:55.732Z",
+              "WhenOpened": "2024-12-21T01:58:54.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
+              "Title": "OrdersDetail.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\OrdersDetail.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\OrdersDetail.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\OrdersDetail.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\OrdersDetail.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:59:10.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T16:20:39.163Z",
+              "WhenOpened": "2024-12-21T03:27:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T01:51:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Desktop\\DEV_ASP.NET-main\\DEV_ASP.NET-main\\ASP.NETcore7.0\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\DEV_ASP.NET-main\\DEV_ASP.NET-main\\ASP.NETcore7.0\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\An\\Desktop\\DEV_ASP.NET-main\\DEV_ASP.NET-main\\ASP.NETcore7.0\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\DEV_ASP.NET-main\\DEV_ASP.NET-main\\ASP.NETcore7.0\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:31:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:59:10.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T06:40:56.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:22:32.147Z",
+              "WhenOpened": "2024-12-21T03:38:19.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:52:39.704Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\NewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:33:01.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\New\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\New\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\New\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\New\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T01:34:06.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:37:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:36:37.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "DevXuongMoc\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Title": "PaymentMethodsController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\PaymentMethodsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\PaymentMethodsController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\PaymentMethodsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\PaymentMethodsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:22:27.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T16:20:49.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:58:45.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:58:49.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T04:38:04.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:36:18.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:36:24.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:36:12.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:36:04.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:35:37.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:35:40.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:35:52.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Contact.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:41:15.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:41:13.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Extension.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Extension.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Extension.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:41:12.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T15:56:46.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T04:07:09.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
               "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:58:56.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T04:07:18.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T04:07:21.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "_Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Edit.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Edit.cshtml",
               "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Edit.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Edit.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAjwC0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:59:30.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T04:07:37.111Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:58:37.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:58:20.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:58:14.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:51:45.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Edit.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:46:20.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Edit.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Edit.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Edit.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:45:25.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Details.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Details.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Details.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Details.cshtml",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAhwJcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:59:31.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Delete.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Delete.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Delete.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Delete.cshtml",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAjwJYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:59:32.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Create.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Create.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Create.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Products\\_Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:59:33.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:46:31.777Z",
-              "EditorCaption": ""
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA0wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:23:23.661Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Details.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Details.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Details.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:46:10.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:46:02.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\Create.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:45:56.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Details.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Details.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Details.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:45:10.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "_Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Create.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Create.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Create.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:44:28.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:51:48.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Delete.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Delete.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\News\\_Delete.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\News\\_Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:45:00.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAwFoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:48:09.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
               "Title": "_NavBar.cshtml",
               "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
               "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
               "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
               "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:48:05.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T03:55:39.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 31,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T03:56:03.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\Product.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:58:24.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartHelper.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\CartHelper.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\CartHelper.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\CartHelper.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\CartHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:28:35.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Orders\\Index.cshtml",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Orders\\Index.cshtml",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Orders\\Index.cshtml",
-              "RelativeToolTip": "DevXuongMoc\\Views\\Orders\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAKgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T08:19:22.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T01:49:21.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "DevXuongMocContext.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "RelativeToolTip": "DevXuongMoc\\Models\\DevXuongMocContext.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:17:18.339Z",
-              "EditorCaption": ""
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T01:34:00.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Models\\ProductImage.cs",
-              "RelativeToolTip": "DevXuongMoc\\Models\\ProductImage.cs",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T01:30:55.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AboutusController.cs",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\AboutusController.cs",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\AboutusController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:12:57.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T01:30:32.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAB4DAAAAAAAAAAArwCkDAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T01:20:15.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAAALQBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T01:17:43.925Z"
             }
           ]
         }

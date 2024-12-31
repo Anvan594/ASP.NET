@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DevXuongMoc.Models;
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 
 namespace DevXuongMoc.Models
@@ -23,7 +25,10 @@ namespace DevXuongMoc.Models
     public class ShoppingCart
     {
         public List<ShoppingCartItem> Items { get; set; } = new List<ShoppingCartItem>();
-
+        public void Clear()
+        {
+            Items.Clear();
+        }
         public decimal Total
         {
             get
@@ -68,3 +73,4 @@ namespace DevXuongMoc.Models
 
     }
 }
+

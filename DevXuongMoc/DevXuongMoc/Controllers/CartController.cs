@@ -46,49 +46,80 @@ namespace DevXuongMoc.Controllers
         [HttpPost]
         public IActionResult UpdateQuantity(int id, int quantity)
         {
-            // If quantity is 0 or negative, we can remove the item
+            // If quantity is less than or equal to 0, remove the item
             if (quantity <= 0)
             {
                 return DeleteItem(id);
             }
 
-            // Lấy giỏ hàng từ session
+            // Retrieve the cart from session
             var cart = GetCart();
 
-            // Tìm sản phẩm trong giỏ hàng
+            // Find the product in the cart
             var item = cart.Items.FirstOrDefault(i => i.ProductId == id);
 
             if (item != null)
             {
-                item.Quantity = quantity;  // Cập nhật số lượng
-                SaveCart(cart);  // Lưu lại giỏ hàng vào session
+                item.Quantity = quantity;  // Update the quantity
+                SaveCart(cart);  // Save the cart to session
             }
 
-            // Trả về tổng tiền cho sản phẩm này và tổng giỏ hàng
+            // Return item total and cart total
             return Json(new
             {
-                itemTotal = $"{item.Total:N0} VND",  // Display item total
-                total = $"{cart.Total:N0} VND"  // Display the total cart value
+                success = true,
+                itemTotal = $"{item.Total:N0} VND",
+                total = $"{cart.Total:N0} VND"
             });
         }
 
         [HttpPost]
         public IActionResult DeleteItem(int id)
         {
-            // Lấy giỏ hàng từ session
+            // Retrieve the cart from session
             var cart = GetCart();
 
-            // Tìm sản phẩm trong giỏ hàng
+            // Find the product in the cart
             var item = cart.Items.FirstOrDefault(i => i.ProductId == id);
 
             if (item != null)
             {
-                cart.Items.Remove(item);  // Xóa sản phẩm khỏi giỏ hàng
-                SaveCart(cart);  // Lưu lại giỏ hàng vào session
+                cart.Items.Remove(item);  // Remove the product from the cart
+                SaveCart(cart);  // Save the updated cart to session
             }
 
-            // Trả về tổng tiền giỏ hàng sau khi xóa sản phẩm
-            return Json(new { total = $"{cart.Total:N0} VND" });  // Display the updated cart total
+            // Return updated cart total
+            return Json(new
+            {
+                success = true,
+                total = $"{cart.Total:N0} VND"
+            });
+        }
+
+        [HttpPost]
+        public IActionResult Checkout()
+        {
+            var cart = GetCart();
+
+            if (cart.Items.Count == 0)
+            {
+                return Json(new
+                {
+                    success = false,
+                    message = "Giỏ hàng của bạn đang trống. Vui lòng thêm sản phẩm trước khi thanh toán."
+                });
+            }
+
+            // Thực hiện thanh toán ở đây...
+
+            // Xóa giỏ hàng sau khi thanh toán thành công
+            HttpContext.Session.Remove("Cart");
+
+            return Json(new
+            {
+                success = true,
+                message = "Thanh toán thành công! Cảm ơn bạn đã mua sắm."
+            });
         }
     }
 }

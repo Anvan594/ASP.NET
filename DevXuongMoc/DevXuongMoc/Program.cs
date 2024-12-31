@@ -46,6 +46,7 @@ namespace Lesson09.Lap
 
             app.UseRouting();
             app.UseSession();
+            app.UseAuthentication();
             app.UseAuthorization();
             // Sử dụng session đã khai báo ở trên
             app.UseSession();

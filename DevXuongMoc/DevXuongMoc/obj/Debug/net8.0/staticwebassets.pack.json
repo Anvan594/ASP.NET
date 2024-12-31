@@ -321,6 +321,186 @@
       "PackagePath": "staticwebassets\\images\\Banner\\Sanpham\\trai-nghiem1.jpg"
     },
     {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\DOITAC.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\DOITAC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\GIOITHIEU.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\GIOITHIEU.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\LIENHE.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\LIENHE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\banner.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\bao-hanh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\bg-about-us.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\bg-about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\chat-luong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\chatluong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\chinh-sach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\ghe.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\ghe.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-cau-thang.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-phong-bep.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-phong-khach.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-phong-tam.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-tre-em.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon-van-phong.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\lienhe-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\lienhe-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\logo3.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\marvella.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\marvella.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\melissa.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\melissa.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\muong-thanh.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\san-pham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\sheraton.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\sheraton.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\sp2.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\sp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\su-menh1.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\su-menh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\su-menh2.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\su-menh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\su-menh3.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\su-menh3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\su-menh4.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\su-menh4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\sunrise-sapa.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\tamnhin.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\tamnhin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\thanhlap.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\thanhlap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\the-coffee-house.png"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\trai-nghiem1.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\trai-nghiem1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\images\\anhcat\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\vinpearl.png",
+      "PackagePath": "staticwebassets\\images\\anhcat\\vinpearl.png"
+    },
+    {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\catagory\\001.jpg",
       "PackagePath": "staticwebassets\\images\\catagory\\001.jpg"
     },
@@ -359,6 +539,22 @@
     {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\news\\01-1.jpg",
       "PackagePath": "staticwebassets\\images\\news\\01-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\news\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\news\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\news\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\news\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\06.jpg"
     },
     {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\cau-thang\\019.jpg",
@@ -475,6 +671,22 @@
     {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\products\\van-phong\\018.jpg",
       "PackagePath": "staticwebassets\\images\\products\\van-phong\\018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\tin-tuc\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\tin-tuc\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\tin-tuc\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\tin-tuc\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\tin-tuc\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\tin-tuc\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\tin-tuc\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\tin-tuc\\06.jpg"
     },
     {
       "Id": "C:\\Users\\An\\Documents\\GitHub\\ASP.NET\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\site.js",

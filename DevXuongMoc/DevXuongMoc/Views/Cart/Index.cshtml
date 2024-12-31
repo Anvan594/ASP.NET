@@ -8,7 +8,7 @@
 
 @if (Model.Items.Count == 0)
 {
-    <p>Giỏ hàng của bạn đang trống.</p>
+    <p>Giỏ hàng của bạn đang trống. <a href="@Url.Action("Index", "Home")">Tiếp tục mua sắm</a></p>
 }
 else
 {
@@ -28,7 +28,7 @@ else
             {
                 <tr data-id="@item.ProductId">
                     <td>@item.Title</td>
-                    <td><img src="@item.Image" alt="Alternate Text" width="100px" /></td>
+                    <td><img src="@item.Image" alt="@item.Title" width="100px" /></td>
                     <td>
                         <input type="number" value="@item.Quantity" min="1" class="form-control quantity-input" />
                     </td>
@@ -47,6 +47,10 @@ else
             </tr>
         </tfoot>
     </table>
+
+    <div class="text-right">
+        <button class="btn btn-success" id="checkout-button">Tiến hành thanh toán</button>
+    </div>
 }
 
 @section Scripts {
@@ -61,7 +65,7 @@ else
 
                 // Kiểm tra xem quantity có hợp lệ không
                 if (quantity < 1 || isNaN(quantity)) {
-                    alert('Số lượng không hợp lệ!');
+                    alert('Số lượng không hợp lệ! Vui lòng nhập số lượng hợp lệ.');
                     return;  // Dừng lại nếu số lượng không hợp lệ
                 }
 
@@ -70,9 +74,13 @@ else
                     type: 'POST',
                     data: { id: id, quantity: quantity },
                     success: function (response) {
-                        // Cập nhật tổng tiền cho sản phẩm và tổng giỏ hàng
-                        row.find('td:nth-child(5)').text(response.itemTotal);
-                        $('#total-amount').text(response.total);
+                        if (response.success) {
+                            // Cập nhật tổng tiền cho sản phẩm và tổng giỏ hàng
+                            row.find('td:nth-child(5)').text(response.itemTotal);
+                            $('#total-amount').text(response.total);
+                        } else {
+                            alert(response.message);
+                        }
                     },
                     error: function () {
                         alert('Cập nhật số lượng thất bại. Vui lòng thử lại.');
@@ -91,15 +99,38 @@ else
                         type: 'POST',
                         data: { id: id },
                         success: function (response) {
-                            // Xóa dòng sản phẩm và cập nhật tổng tiền
-                            row.remove();
-                            $('#total-amount').text(response.total);
+                            if (response.success) {
+                                // Xóa dòng sản phẩm và cập nhật tổng tiền
+                                row.remove();
+                                $('#total-amount').text(response.total);
+                            } else {
+                                alert('Xóa sản phẩm thất bại. Vui lòng thử lại.');
+                            }
                         },
                         error: function () {
                             alert('Xóa sản phẩm thất bại. Vui lòng thử lại.');
                         }
                     });
                 }
+            });
+
+            // Tiến hành thanh toán
+            $('#checkout-button').on('click', function () {
+                $.ajax({
+                    url: '@Url.Action("Checkout", "Cart")',
+                    type: 'POST',
+                    success: function (response) {
+                        if (response.success) {
+                            alert(response.message);
+                            window.location.href = '@Url.Action("Index", "Home")'; // Chuyển hướng đến trang chủ
+                        } else {
+                            alert(response.message);
+                        }
+                    },
+                    error: function () {
+                        alert('Thanh toán thất bại. Vui lòng thử lại.');
+                    }
+                });
             });
         });
     </script>

@@ -50,6 +50,7 @@ public partial class DevXuongMocContext : DbContext
     public virtual DbSet<ProductImage> ProductImages { get; set; }
 
     public virtual DbSet<ProductMaterial> ProductMaterials { get; set; }
+    public virtual DbSet<PaymentMethod> PaymentMethods { get; set; }
 
     public virtual DbSet<Slide> Slides { get; set; }
 

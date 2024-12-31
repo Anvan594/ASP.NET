@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevXuongMoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe254db7915c93b2ffe25a34989517c8c161e23f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cba9fbe516b721e0e28815b0d592a1f9cb13cc36")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevXuongMoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevXuongMoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

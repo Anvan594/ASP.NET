@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace DevXuongMoc.Areas.CustomerUser.Controllers
+namespace DevXuongMoc.Controllers
 {
-    [Area("CustomerUser")]
     public class BaseController : Controller, IActionFilter
     {
         public override void OnActionExecuted(ActionExecutedContext context)
